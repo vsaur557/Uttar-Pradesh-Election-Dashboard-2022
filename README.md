@@ -4,6 +4,7 @@ This Power BI dashboard provides an interactive analysis of election data for Ut
 
 ## Dashboard Preview
 
+![Uttar Pradesh Election Dashboard](https://raw.githubusercontent.com/vsaur557/Uttar-Pradesh-Election-Dashboard-2022/main/Screenshot%202026-06-16%20132650.png)
 
 
 ## Features
